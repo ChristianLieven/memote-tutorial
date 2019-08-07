@@ -12,3 +12,4 @@ growth:
       filename: "biolog_data.csv"
       medium: mineral_salt
       objective: BIOMASS_Ecoli_core_w_GAM
+      label: "Biolog Experiment"
