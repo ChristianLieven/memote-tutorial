@@ -8,7 +8,7 @@ essentiality:
 growth:
   path: "growth/"
   experiments:
-    my_first_biolog_experiment:
+    biolog_data:
       filename: "biolog_data.csv"
       medium: mineral_salt
       objective: BIOMASS_Ecoli_core_w_GAM
